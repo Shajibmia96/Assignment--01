@@ -15,6 +15,7 @@ font-family: 'Open Sans', sans-serif;
     display: flex;
     padding-top: 30px;
     
+    
 }
 
 .header-images>img{
@@ -36,7 +37,9 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .header-main{
-    margin:70px 340px 60px 140px;
+    
+    margin-left: 180px;
+   
 }
 
 
@@ -205,8 +208,8 @@ font-family: 'Open Sans', sans-serif;
 
 .Differnt{
     color: #E55473;
-    padding: 10px;
 }
+
 .Copyright{
     color: rgba(255, 255, 255, 0.514);
      margin-top: 90px ;
