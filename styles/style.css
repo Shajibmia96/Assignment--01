@@ -37,10 +37,7 @@
 .header-main{
     margin:70px 340px 60px 140px;
 }
-span{
-   color: #E55473;
-    padding: 10px;
-}
+
 
 .btn-pramary{
     margin-top: 10px;
@@ -194,4 +191,23 @@ span{
 }
 .flower-name{
     background-color: antiquewhite;
+}
+.footer-description{
+    color: white;
+    margin-top: 50px;
+}
+.footer-wrapper{
+    background-color: black;
+    padding: 70px;
+    margin-top: 120px;
+}
+
+.Differnt{
+    color: #E55473;
+    padding: 10px;
+}
+.Copyright{
+    color: rgba(255, 255, 255, 0.514);
+     margin-top: 90px ;
+     padding-bottom: 50px;
 }
