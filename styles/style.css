@@ -28,7 +28,7 @@
 .header-description{
     color: #272727;
     font-size: 20px;
-    font-weight: 15px;
+    font-weight: 500;
     padding-top: 12px;
     width: 80%;
 }
@@ -44,6 +44,11 @@
     border: 0;
     padding: 10px;
     border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.btn-sub{
+    padding: 20px;
 }
 
 /* Header style close */
@@ -88,6 +93,8 @@
 .flower-title{
     text-align: center;
     margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 
@@ -102,6 +109,9 @@
 }
 .sing-up{
   margin-left: 200px;
+}
+.sell-container{
+    margin-top: 120px;
 }
 
 .sell-description{
@@ -132,6 +142,27 @@
     margin-right: 20px;
 }
 .subcribt{
-    background-image: url("/flower-shop-assignment/Rectangle\ 9.png")
-    pa
+
+    margin-top: 120px;
+    background-repeat: no-repeat;
+    background-image: url("/flower-shop-assignment/Rectangle\ 9.png");
+    background-repeat : no-repeat;
+    margin-left:205px;
+    
+    
+}
+.email-option{
+    padding: 50px 0px;
+}
+.email-wrapper{
+    padding: 20px;
+    padding-right: 400px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    justify-content: center;
+}
+.section-description{
+    font-size: 20px;
+    font-weight: 500;
 }
